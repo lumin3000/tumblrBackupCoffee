@@ -6,7 +6,7 @@ fs = require 'fs'
 
 #config
 env = 'development' #production
-tumblrDomain = "kuandom.tumblr.com"
+tumblrDomain = "staff.tumblr.com"
 Db = mongodb.Db
 Collection = mongodb.Collection
 GridStore = mongodb.GridStore
