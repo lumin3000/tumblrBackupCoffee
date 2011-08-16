@@ -19,7 +19,4 @@ tumblerBackupCoffee is a tumblr backup tools in cooffeescript, node.js and mongo
 
 ## Credits
 
-[Guille](http://github.com/sjerrys)
-- Nathan White - [nw](http://github.com/nw/)
-- Brian Noguchi - [bnoguchi](https://github.com/bnoguchi)
-- Aaron Heckmann - [aheckmann](https://github.com/aheckmann)
+[sjerrys](http://github.com/sjerrys)
